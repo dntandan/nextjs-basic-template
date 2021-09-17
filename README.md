@@ -8,7 +8,7 @@ A basic template for initializing NextJS Project with TailwindCSS, TypeScript, S
 ## Run in your Console
 
 ```bash
-  npx create-next-app your-nextjs-app-name --example "https://github.com/dntandan/nextjs-basic-template"
+  npx create-next-app APP_NAME -e "https://github.com/dntandan/nextjs-basic-template"
 ```
 ### Or use this Repository as Template
 <a href="https://github.com/dntandan/nextjs-basic-template/generate">
@@ -18,7 +18,7 @@ A basic template for initializing NextJS Project with TailwindCSS, TypeScript, S
 
 ## Demo
 
-[Live Demo](https://nextjs-baisc-template.vercel.app/)
+[Live Demo](https://nextjs.dntandan.ml/)
 
 ## Features
 
