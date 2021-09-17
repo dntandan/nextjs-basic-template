@@ -1,2 +1,5 @@
-# nextjs-basic-template
-A template for initializing Nextjs with TailwindCSS, Typescript, SASS, Nightwind &amp; NextTheme for Darkmode
+# 🖤 NextJS + TailwindCSS + Typescript + SASS + Dark Theme (Template)
+
+A template for initializing NextJS Project with TailwindCSS, TypeScript, SASS, Nightwind &amp; NextTheme for Dark Mode 🖤
+
+
